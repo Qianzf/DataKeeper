@@ -102,7 +102,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.senchuuhi.netty.proxy.http.ServerStart</mainClass>
+                            <mainClass>io.github.qianzf.netty.proxy.http.ServerStart</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
